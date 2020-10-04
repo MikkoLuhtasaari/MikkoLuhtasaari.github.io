@@ -12,7 +12,7 @@ categories: [GitHub, GitHub Pages, Reverie]
 
 - Click on *Use this template*
 
-![Use this template in GitHub](/images/use-this-template.png)
+![Use this template in GitHub](/images/2020-10-04/01.PNG)
 
 - Give your repository a name of *yourgithubusername.github.io*
 
