@@ -18,7 +18,7 @@ categories: [GitHub, GitHub Pages, Reverie]
 
   - Remember to change *yougithubusername* to your actual GitHub username
 
-![Create a repository in GitHub](/images/2020-10-04/02.png)
+![Create a repository in GitHub](/images/2020-10-04/02.PNG)
 
 - Your blog should soon be visible at *yourgithubusername.github.io*
 
@@ -28,11 +28,11 @@ categories: [GitHub, GitHub Pages, Reverie]
 
 - Open up your *_config.yml* by clicking it in the GitHub
 
-![Config.yml in GitHub](/images/2020-10-04/03.png)
+![Config.yml in GitHub](/images/2020-10-04/03.PNG)
 
 - There are plenty of configuration options available
 
-![Config.yml](/images/2020-10-04/04.png)
+![Config.yml](/images/2020-10-04/04.PNG)
 
 - Change at least following:
 
@@ -68,11 +68,11 @@ categories: [GitHub, GitHub Pages, Reverie]
 
     - If you are following this guide you can remove baseurl
 
-![Finished config.yml](/images/2020-10-04/05.png)
+![Finished config.yml](/images/2020-10-04/05.PNG)
 
 - From the bottom of the page click *Commit changes*
 
-![Commit changes](/images/2020-10-04/06.png)
+![Commit changes](/images/2020-10-04/06.PNG)
 
 - Now your blog should be all ready to go!
 
