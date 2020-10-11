@@ -87,6 +87,7 @@ produces an output like
 
 ```md
 [This is a link!](https://github.com/MikkoLuhtasaari/)
+
 [This link has a title!](https://github.com/MikkoLuhtasaari/ "I'm the title!")
 ![I'm alt text for the image](https://via.placeholder.com/150)
 ![Images can also be uploaded to the repository](/images/2020-10-04/01.PNG)
@@ -95,6 +96,7 @@ produces an output like
 produces an output like
 
 [This is a link!](https://github.com/MikkoLuhtasaari/)
+
 [This link has a title!](https://github.com/MikkoLuhtasaari/ "I'm the title!")
 ![I'm alt text for the image](https://via.placeholder.com/150)
 ![Images can also be uploaded to the repository](/images/2020-10-04/01.PNG)
@@ -103,17 +105,25 @@ produces an output like
 
 You can highlight various different languages
 
+JavaScript:
+
 ```javascript
 const greet = (name) => console.log(`Hello ${name}!`);
 ```
+
+Python:
 
 ```python
 print("Hello world!")
 ```
 
+HTML:
+
 ```html
 <h1>Hello world!</h1>
 ```
+
+CSS:
 
 ```css
 .heading {
