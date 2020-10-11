@@ -103,7 +103,8 @@ produces an output like
 
 ### Code highlighting
 
-You can highlight various different languages
+You can highlight various different languages.
+See examples below and the syntax from bottom of [this file](https://raw.githubusercontent.com/MikkoLuhtasaari/MikkoLuhtasaari.github.io/master/_posts/2020-10-11-creating-blog-posts.md).
 
 JavaScript:
 
