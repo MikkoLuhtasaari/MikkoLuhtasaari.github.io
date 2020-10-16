@@ -10,7 +10,7 @@ I graduated from Tampere University of Applied Sciences as a Bachelor of Busines
 
 ### Skills & Interests
 
-My studies focused on Java and Android native development. Since then I've moved towards web development and I consider myself a rather competent web developer / architect.
+My studies focused on Java and Android native development. Since then I've moved towards web development and I consider myself a rather skilled web developer / architect.
 
 Obviously web development comes with a plenty of JavaScript / TypeScript knowledge. The thing that got me into web development was React with TypeScript and it is what I consider to be my biggest strength. In addition to React, I've also built applications with React native, Angular 2 and using vanilla JS. On the server side I've worked with Node.js, Spring, .NET Framework and .NET Core 2.
 
