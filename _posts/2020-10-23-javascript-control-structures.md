@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript basics
+title: JavaScript if statements
 categories: [JavaScript, Coding, Basics, Control Structures]
 ---
 
