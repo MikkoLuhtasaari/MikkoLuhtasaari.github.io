@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript if statements
+title: JavaScript for loops
 categories: [JavaScript, Coding, Basics, Control Structures]
 ---
 
